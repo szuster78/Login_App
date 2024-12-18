@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517306721804",
+    "project_id": "singup-login-app",
+    "storage_bucket": "singup-login-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517306721804:android:47f74ecb3d41cbab1f3029",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3qkKsDrDou92szEk5hPrYl1WeKXsXGwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
